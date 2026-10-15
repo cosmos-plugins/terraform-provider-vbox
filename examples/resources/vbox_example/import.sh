@@ -1,0 +1,1 @@
+terraform import vbox_example.example "id-123"

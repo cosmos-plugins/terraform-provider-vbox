@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "vbox" {
   # example configuration here
 }

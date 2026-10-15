@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/cosmos-plugins/terraform-provider-vbox
 
 go 1.25.8
 
